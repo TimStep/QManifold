@@ -1,0 +1,1 @@
+This repository contains QML solutions for [hidden manifold](https://pennylane.ai/datasets/other/hidden-manifold) problem using [PQN](https://iopscience.iop.org/article/10.1088/2632-2153/ad2aef/pdf), EFQ and QDI layers. Currently in WIP status.
