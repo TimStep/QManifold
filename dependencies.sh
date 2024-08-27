@@ -1,0 +1,1 @@
+pip install qiskit pylatexenc qiskit-machine-learning 'qiskit-ibm-runtime==0.27.1' qiskit-aer matplotlib aiohttp fsspec h5py scikit-learn tensorboard && pip install pennylane --upgrade
