@@ -5,3 +5,6 @@ QManifold_local.ipynb
 *.gz
 *.tex
 *.pdf
+models/
+graphs/
+!report.pdf
